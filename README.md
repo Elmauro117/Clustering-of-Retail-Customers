@@ -1,5 +1,6 @@
 # Clustering-of-Retail-Customers
 Retail Clustering Project. (centroids, EDA, data cleaning, data engineering, interpretation)
+Data from Kaggle: https://www.kaggle.com/code/hainescity/company-s-ideal-customers
 #
 #
 In this project we go through all the process of Data cleaning, EDA, Data engineering, finding the optimal number of clusters with centroids methodology to creating the clusters and understanding the results.
